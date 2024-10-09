@@ -1,8 +1,6 @@
 # Chatty
  A basic community chat application
 
-## Use the app
-- **Vercel Hoste:** http://chatty.42web.io/login.php
 
 ## Author
 
