@@ -16,10 +16,9 @@
 - now go to the drive xaamp folder on your device inside that open folder htdocs and paste the project folder
 
 ## Preview
+- Video Demonstration
 
-- Demo
-
-![Demo](https://github.com/user-attachments/assets/14039318-c01b-4129-9393-270574bd6168)
+https://github.com/user-attachments/assets/c2bb0c2c-648e-4ba7-aeea-0b1df1daeb9a
 
 
 ## 🔗 Links
