@@ -1,5 +1,5 @@
 # Chatty
- A basic community chat application
+ A basic community chat application created using PHP and MySQL (XAAMP Server)
 
 
 ## Author
